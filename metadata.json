@@ -1,0 +1,6 @@
+{
+  "name": "Fluxora",
+  "description": "Exactly matching premium hero section of Fluxora with rich neon/fire gradients and polished typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
